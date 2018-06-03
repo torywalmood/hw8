@@ -23,3 +23,8 @@
 ![шаг первый](https://raw.githubusercontent.com/torywalmood/19-/master/4.jpg)
 
 ![шаг второй](https://raw.githubusercontent.com/torywalmood/19-/master/5.jpg)
+
+###
+
+не понимаю, почему загруженный файл отражается с пустыми строчками, хотя при открытии на рабочем столе все хорошо:
+![скрин](https://raw.githubusercontent.com/torywalmood/19-/master/%D1%82%D0%B5%D0%BA%D1%81%D1%82.jpg)
